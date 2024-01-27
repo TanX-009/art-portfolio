@@ -1,0 +1,3 @@
+{
+  "ignore": ["./images/", "./src/data/cards.json"]
+}
