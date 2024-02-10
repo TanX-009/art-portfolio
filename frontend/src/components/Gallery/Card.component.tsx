@@ -33,7 +33,9 @@ export default function Card({ variant, date, name, image }: TProps) {
             src={parseLink(image)}
             alt={name}
             fill
-            sizes="(max-width: 1920px) 17.1354vw, 17.1354vw"
+            sizes="(max-width: 1920px) 27.7917vw, (max-width: 1280px) 37.1875vw, 
+(max-width: 720px) 45.4167vw, (max-width: 640px) 85.0000vw, (max-widt
+h: 480px) 81.2500vw, 43.9087vw"
           />
         </div>
         <div className="h-1/5 w-full text-3xl">
