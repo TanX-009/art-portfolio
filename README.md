@@ -14,3 +14,6 @@ make sure to add /v1/ at the end as it is used in backend
 
 Start the frontend with: \
 `npm run dev`
+
+### Preview
+![Art Portfolio](https://github.com/TanX-009/art-portfolio/blob/main/preview.png?raw=true)
